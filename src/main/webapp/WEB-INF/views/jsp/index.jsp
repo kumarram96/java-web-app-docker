@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to greens technology.</h2>
-			<h3>peumbakkam</h3>
+			<h2>Welcome to Tirunelveli.</h2>
+			<h3>palayamkottai</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Greens Technologies 2023</p>
+		<p>&copy; gangaikondan 2023</p>
 	</footer>
 </div>
 
